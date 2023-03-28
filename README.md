@@ -15,4 +15,4 @@ Github  | https://github.com/v0xel1337/NewGen-IT
 Youtube | https://www.youtube.com/watch?v=7rKRKdv3I44
 Drive  | https://drive.google.com/drive/folders/1llGViV6pbfRk8uKcgMYHAoK6rNHa8p3c?usp=sharing
 
-![alt text](https://raw.githubusercontent.com/v0xel1337/NewGen-IT/main/Vide%C3%B3%20Anyagok/Logo.PNG?token=GHSAT0AAAAAACAVHB7B54MI5IOIP4N5CPOMZBCRWAQ)
+![alt text](https://raw.githubusercontent.com/v0xel1337/NewGen-IT/main/Vide%C3%B3%20Anyagok/Logo.PNG?token=GHSAT0AAAAAACAVMF7QEANQHF3UQ42F5GD4ZBCVPVA)
