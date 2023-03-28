@@ -12,6 +12,6 @@ Elérhetőség | Link
 | :--- | :--- 
 Trello  | https://trello.com/b/iAWOvqRx/ikt-project
 Github  | https://github.com/v0xel1337/NewGen-IT
-Drive  | https://www.google.hu/intl/hu/drive/
+Drive  | https://drive.google.com/drive/folders/1llGViV6pbfRk8uKcgMYHAoK6rNHa8p3c?usp=sharing
 
 ![alt text](https://github.com/v0xel1337/NewGen-IT/blob/main/Logo.PNG)
